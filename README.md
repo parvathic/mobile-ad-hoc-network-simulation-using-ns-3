@@ -13,3 +13,5 @@ Comparison of the three protocols is done with the following aspects in mind:
 
 - The average delay for a successful transmission is calculated and compared between the three protocols. A python code is developed from scratch to parse the .flows file created by the File Moniter module in NS-3 [used in the code to run the simulation].
 
+- Delay is calculated while varying the 2] number of transmitters and receivers, 3] distance between nodes, 4] pause time (speed)
+
