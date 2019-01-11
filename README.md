@@ -1,4 +1,7 @@
 # mobile-ad-hoc-network-simulation-using-ns-3
+
+The code for the framework and the default models provided by ns-3 is built as a set of libraries. User simulations are expected to be written as simple programs that make use of these ns-3 libraries.
+
 This project is designed to observe wireless mobile ad-hoc network behavior and understand the different mechanisms associated with it, and uses NS-3 to compare the performance of mobile ad-hoc network routing protocols such as AODV, DSR and DSDV.
 
 Comparison of the three protocols is done with the following aspects in mind: 
